@@ -1,0 +1,12 @@
+{
+  "showInlineTitle": false,
+  "livePreview": false,
+  "showLineNumber": true,
+  "vimMode": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./"
+}
